@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Создается библиотека D:\VStudio\to-git1\x64\Debug\Dll1.lib и объект D:\VStudio\to-git1\x64\Debug\Dll1.exp
+  Dll1.vcxproj -> D:\VStudio\to-git1\x64\Debug\Dll1.dll
